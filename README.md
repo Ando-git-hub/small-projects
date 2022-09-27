@@ -3,7 +3,7 @@
 ## Table of contents
 
 - [Function printf](#printf)
-- [Find char indexes in string](#char-indexes-in string)
+- [Find char indexes in string](#char-indexes-in-string)
 - [Split string to words by delimiters](#split-string-to-words-by-delimiters)
 
 ### Printf
