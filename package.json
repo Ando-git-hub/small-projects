@@ -1,0 +1,11 @@
+{
+  "name": "small-projects",
+  "version": "1.0.0",
+  "description": "Small projects",
+  "main": "findCharIndexesInString.js",
+  "scripts": {
+    "start": "node ./runFile.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
