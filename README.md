@@ -5,6 +5,7 @@
 - [Function printf](#printf)
 - [Find char indexes in string](#char-indexes-in-string)
 - [Split string to words by delimiters](#split-string-to-words-by-delimiters)
+- [Get all possible variations from characters](#get-all-possible-variations-from-characters)
 
 ### Printf
 **Analog function of 'printf' in 'C'**
@@ -33,4 +34,15 @@
 * **Arguments**
   * **str:** `Required` <_String need to split_>
   * **delimiters:** `Required` <_Array of delimiters_>
+
+---    
+
+### Get all possible variations from characters
+**Recursive function to get all possible variations of passed characters by passed length**
+* **Run commands**
+  * **Node:** `node getAllPossibleVariationsFromCharacters.js`
+* **Arguments**
+  * **stringOfCharacters:** `Required` <_string_> - String of all characters
+  * **prefix:** `Required` <_string_> Prefix - need to add to result (uses in recursive logic)
+  * **n:** `Required` <_number_> - Length of generate string
     
